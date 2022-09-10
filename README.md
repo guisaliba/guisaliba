@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guisaliba&label=Profile%20views&color=0e75b6&style=flat" alt="guisaliba" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guisaliba" alt="guisaliba" /></a> </p>
 
 - 🌱 I’m currently learning: **Angular and Node.js ⚡**
 
