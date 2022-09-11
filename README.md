@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Guilherme</h1>
-<h3 align="center">A passionate Frontend Developer from Brazil. Currently studying.</h3>
+<h1 align="center">Hi 👋, I'm Guilherme Saliba</h1>
+<h3 align="center">A passionate Frontend Developer and student from Brazil 🇧🇷 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guisaliba&label=Profile%20views&color=0e75b6&style=flat" alt="guisaliba" /> </p>
 
 
-- 🌱 I’m currently learning: **Angular and Node.js ⚡**
+- 🌱 I’m currently learning: **React and Node.js ⚡**
 
 - 💬 Chat with me about: **HTML, CSS, JavaScript, Node.js, Angular, React ⚛️**
 
