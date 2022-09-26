@@ -1,12 +1,13 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
 
-<p align="center"> 
-  <strong>Hi 👋 I'm Guilherme Saliba, </strong>
+<p align="left"> 
+  <strong>Hi 👋 I'm Guilherme Saliba, </strong> <br>
+  a passionate Developer and Student from 🇧🇷.<br>
+  Currently studying and making awesome projects.
 </p>
 
 <p align="left">
-  a passionate Developer and Student from 🇧🇷.<br>
-  Currently studying and making awesome projects.
+
 </p>
 
 <p align="left">
