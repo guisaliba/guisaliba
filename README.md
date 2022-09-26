@@ -19,6 +19,10 @@
 </p>
 
 <p align="left">
+  📚 Studying: <strong>DevOps & CyberSec.</strong>
+</p>
+
+<p align="left">
   💌 Get in touch with me: ⤵️
 </p>
 
