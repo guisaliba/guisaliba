@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Languages: <strong>HTML, CSS, Tailwind, JavaScript, React, Node.js <br> Express, Java, SQL, MongoDB.  </strong>
+  🦄 Languages: <strong>React, Tailwind, Node.js, Express, Java, SQL, MongoDB.  </strong>
 </p>
 
 <p align="left">
