@@ -1,16 +1,16 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Hi 👋 I'm Guilherme Saliba, <strong>a passionate Developer and Student from 🇧🇷</strong>.<br>
+  Hi 👋 I'm Guilherme Saliba, <br> <strong>a passionate Developer and Student from 🇧🇷</strong>.<br>
   Currently studying and making awesome projects.
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>HTML, CSS, Tailwind, JavaScript, React, Node.js, Express, Java, SQL, MongoDB.  </strong>
+  🦄 Languages: <strong>HTML, CSS, Tailwind, JavaScript, React, Node.js <br> Express, Java, SQL, MongoDB.  </strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Git, Figma, Docker.</strong>
+  💼 Tools: <strong>Git, Figma, Docker.</strong>
 </p>
 
 <p align="left">
