@@ -11,11 +11,11 @@
 </p>
 
 <p align="left">
-  🦄 Languages: <strong>React, Tailwind, Node.js, Express, Java, SQL, MongoDB.  </strong>
+  🦄 Developing awesome things in: <strong>React, React Native, Node.js, Express, Java </strong>
 </p>
 
 <p align="left">
-  💼 Tools: <strong>Git, Figma, Docker.</strong>
+  💼 Tools: <strong>Git, Figma, Netlify, Heroku, Docker.</strong>
 </p>
 
 <p align="left">
@@ -27,7 +27,7 @@
 </p>
 
 <p align="left">
-  <a href="https://mail.google.com/mail/u/0/#inbox?compose=VpCqJTCPxFSpvhGCcVMGnLfHpsKXblwvmgKNctNLLhfzrLTBXgcdfvwkKRRqBbdgsbJLkBg" alt="Gmail">
+  salibagui19@gmail.com
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=https://mail.google.com/mail/u/0/#inbox?compose=VpCqJTCPxFSpvhGCcVMGnLfHpsKXblwvmgKNctNLLhfzrLTBXgcdfvwkKRRqBbdgsbJLkBg" /></a>
 
   <a href="https://www.linkedin.com/in/salibagui/" alt="Linkedin">
