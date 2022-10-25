@@ -15,7 +15,7 @@
 </p>
 
 <p align="left">
-  💼 Tools: <strong>Git, Figma, Netlify, Heroku, Docker.</strong>
+  💼 Tools: <strong>Git, Figma, Vercel, Netlify, Docker.</strong>
 </p>
 
 <p align="left">
