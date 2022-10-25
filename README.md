@@ -42,4 +42,4 @@
 <br>
 <br>
 
-[![guisaliba](https://github-readme-stats.vercel.app/api/top-langs/?username=guisaliba&hide=html&layout=compact&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![guisaliba](https://github-readme-stats.vercel.app/api/top-langs/?username=guisaliba&layout=compact&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
