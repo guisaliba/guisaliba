@@ -11,7 +11,7 @@
 </p>
 
 <p align="left">
-  🦄 Developing in: <strong>React, React Native, Node.js, Express, Java </strong>
+  🦄 Developing in: <strong>React.js, NextJS, Node.js </strong>
 </p>
 
 <p align="left">
