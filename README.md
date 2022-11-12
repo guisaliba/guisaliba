@@ -2,7 +2,7 @@
 
 <p align="left"> 
   <strong>Hi 👋 I'm Guilherme Saliba, </strong>
-  a passionate Developer and Student from 🇧🇷.<br>
+  a passionate Developer and Student from 🇧🇷<br>
 </p>
 
 <p align="left">
@@ -10,11 +10,11 @@
 </p>
 
 <p align="left">
-  🦄 Developing in: <strong>React.js | Angular | Node.js.</strong>
+  🦄 Developing in: <strong>React.js | Angular | Node.js</strong>
 </p>
 
 <p align="left">
-  💼 Tools: <strong>Git, Figma, Vercel, Netlify, Docker.</strong>
+  💼 Tools: <strong>Git, Figma, Vercel, Netlify, Docker</strong>
 </p>
 
 <p align="left">
