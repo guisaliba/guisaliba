@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  🦄 Developing in: <strong>React.js | Angular | Node.js</strong>
+  🦄 Developing in: <strong>React.js | Node.js</strong>
 </p>
 
 <p align="left">
