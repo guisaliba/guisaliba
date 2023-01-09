@@ -18,7 +18,7 @@
 </p>
 
 <p align="left">
-  📚 Studying: <strong>NextJS & GraphQL</strong>
+  📚 Studying: <strong>Java & PHP</strong>
 </p>
 
 <p align="left">
