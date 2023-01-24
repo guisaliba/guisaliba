@@ -18,7 +18,7 @@
 </p>
 
 <p align="left">
-  📚 Studying: <strong>Java & PHP</strong>
+  📚 Currently studying: <strong>NestJS</strong>
 </p>
 
 <p align="left">
