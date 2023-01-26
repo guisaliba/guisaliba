@@ -18,7 +18,7 @@
 </p>
 
 <p align="left">
-  📚 Currently studying: <strong>Prisma & GraphQL</strong>
+  📚 Currently studying: <strong>Prisma & Fastify</strong>
 </p>
 
 <p align="left">
