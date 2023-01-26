@@ -18,7 +18,7 @@
 </p>
 
 <p align="left">
-  📚 Currently studying: <strong>NestJS</strong>
+  📚 Currently studying: <strong>Prisma & GraphQL</strong>
 </p>
 
 <p align="left">
