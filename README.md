@@ -2,7 +2,7 @@
 
 <p align="left"> 
   <strong>Hi 👋 I'm Guilherme Saliba, </strong>
-  a passionate Developer and Student from 🇧🇷<br>
+  a passionate Developer and Student from Brazil🇷<br>
 </p>
 
 <p align="left">
