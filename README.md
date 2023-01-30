@@ -14,11 +14,11 @@
 </p>
 
 <p align="left">
-  💼 Tools: <strong>Git, Figma, Vercel, Netlify, Docker</strong>
+  💼 Tools: <strong>Git, Figma, Vercel, Netlify</strong>
 </p>
 
 <p align="left">
-  📚 Currently studying: <strong>Prisma & Fastify</strong>
+  📚 Currently studying: <strong>Prisma & NestJS</strong>
 </p>
 
 <p align="left">
