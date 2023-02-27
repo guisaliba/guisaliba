@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
-  💼 Tools: <strong>Git, Figma, Vercel, Netlify.</strong>
+  💼 Tools: <strong>Git, Figma, Vercel, Netlify, Notion, Jira, Slack, Bitbucket, GitLab</strong>
 </p>
 
 <p align="left">
@@ -38,4 +38,4 @@
 <br>
 <br>
 
-[![guisaliba](https://github-readme-stats.vercel.app/api/top-langs/?username=guisaliba&layout=compact&hide=html,css&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![guisaliba](https://github-readme-stats.vercel.app/api/top-langs/?username=guisaliba&layout=compact&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
