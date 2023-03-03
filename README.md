@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
-  💼 Tools: <strong>Git, Figma, Vercel, Netlify, Notion, Jira, Slack, Bitbucket, GitLab</strong>
+  💼 Tools: <strong>Git, Figma, Notion, Jira, Slack</strong>
 </p>
 
 <p align="left">
