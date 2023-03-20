@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  🦄 Developing in: <strong>React | React Native | Node.js</strong>
+  🦄 Developing in: <strong>React | React Native | Node.js | ASP.NET Core</strong>
 </p>
 
 <p align="left">
