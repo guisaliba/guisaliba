@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  🦄 Developing in: <strong>React | Node.js | .NET | ASP.NET</strong>
+  🦄 Developing in: <strong>React | Node.js | ASP.NET</strong>
 </p>
 
 <p align="left">
@@ -18,7 +18,7 @@
 </p>
 
 <p align="left">
-  📚 Currently learning: <strong>Java, AWS & .NET</strong>
+  📚 Currently learning: <strong>AWS, .NET & MVC</strong>
 </p>
 
 <p align="left">
