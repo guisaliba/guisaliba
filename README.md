@@ -18,7 +18,7 @@
 </p>
 
 <p align="left">
-  📚 Currently learning: <strong>AWS, .NET & MVC</strong>
+  📚 Currently learning: <strong>Python & AWS</strong>
 </p>
 
 <p align="left">
