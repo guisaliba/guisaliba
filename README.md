@@ -14,11 +14,11 @@
 </p>
 
 <p align="left">
-  💼 Tools: <strong>Git, Figma, Notion, Jira, Slack</strong>
+  💼 Tools: <strong>Git, Figma, Notion, Trello, QuantumGis</strong>
 </p>
 
 <p align="left">
-  📚 Currently learning: <strong>Python & AWS</strong>
+  📚 Interested in learning: <strong>Kotlin & Blockchain</strong>
 </p>
 
 <p align="left">
