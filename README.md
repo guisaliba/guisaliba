@@ -10,15 +10,19 @@
 </p>
 
 <p align="left">
-  🦄 Developing in: <strong>React | Node.js | ASP.NET</strong>
+  🦄 Developing in: <strong>JavaScript | TypeScript | C# | Python</strong>
 </p>
 
 <p align="left">
-  💼 Tools: <strong>Git, Figma, Notion, Trello, QuantumGis</strong>
+  ⚙️ Frameworks: <strong>React | Node.js | ASP.NET | Flask</strong>
 </p>
 
 <p align="left">
-  📚 Interested in learning: <strong>Kotlin & Blockchain</strong>
+  💼 Tools: <strong>Git, Figma, Notion, Trello</strong>
+</p>
+
+<p align="left">
+  📚 Things I want to learn: <strong>NextJS, AWS, Kotlin, Blockchain, Web3</strong>
 </p>
 
 <p align="left">
@@ -27,7 +31,7 @@
 
 <p align="left">
    <a href="mailto:salibagui19@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-salibagui19@gmail.com-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=" /></a>
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=" /></a>
 
   <a href="https://www.linkedin.com/in/salibagui/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/salibagui/" /></a>
