@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
-  ⚙️ Frameworks: <strong>React | Node.js | ASP.NET | Flask</strong>
+  ⚙️ Frameworks: <strong>React | Node.js | ASP.NET Core | Flask</strong>
 </p>
 
 <p align="left">
