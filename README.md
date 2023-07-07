@@ -18,10 +18,6 @@
 </p>
 
 <p align="left">
-  💼 Tools: <strong>Git, Figma, Notion, Trello</strong>
-</p>
-
-<p align="left">
   📚 Things I want to learn: <strong>NextJS, AWS, Kotlin, Blockchain, Web3</strong>
 </p>
 
