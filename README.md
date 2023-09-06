@@ -30,7 +30,6 @@
     <a href="https://www.twitch.tv/salibaa"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></img></a>
     <a href="https://dev.to/guisaliba"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></img></a>
     <a href="https://www.linkedin.com/in/guisaliba/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
-    <a href="mailto:salibagui19@gmail.com" alt="GMAIL"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=FF0000&logo=gmail&logoColor=white&link=" /></a>
 </p>  
 <br>
 <br>
