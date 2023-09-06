@@ -21,12 +21,12 @@ Guilherme 'guisaliba', young passionate developer.
 
 <br>
 
-### **📕 Latest blog posts**
-<br>
+#### **📕 Latest blog posts**
 <!-- BLOG:START -->
 - [My 5-Day Adventure in Brackey's Game Jam 2023: From Gamer to Game Developer.]([https://dev.to/guisaliba/my-5-day-adventure-in-brackeys-game-jam-2023-from-gamer-to-game-developer-3d21])
 <!-- BLOG:END -->
 
+<br>
 <br>
 <br>
 
