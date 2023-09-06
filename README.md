@@ -1,4 +1,5 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="350px" align="right" alt="Computador">
+
 #### **✨ About me:**
 ```diff
 Guilherme 'guisaliba', young passionate developer.
