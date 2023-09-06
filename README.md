@@ -22,14 +22,17 @@
 </p>
 
 <p align="left">
-  💌 Get in touch with me: ⤵️
+  💌 You can find me here: ⤵️
 </p>
 
 <p align="left">
-   <a href="mailto:salibagui19@gmail.com" alt="Gmail">
+    <a href="https://twitter.com/guisaliba1">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></img>
+    </a>
+   <a href="mailto:salibagui19@gmail.com" alt="GMAIL">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=" /></a>
 
-  <a href="https://www.linkedin.com/in/salibagui/" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/salibagui/" alt="LINKEDIN">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/salibagui/" /></a>
 </p>  
 <br>
