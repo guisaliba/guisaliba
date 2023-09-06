@@ -4,7 +4,7 @@
 ```diff
 Guilherme 'guisaliba', young passionate developer.
 
-> Living in Minas Gerais, Brazil 🇧🇷
+# Living in Minas Gerais, Brazil 🇧🇷
 + 21 years old 
 - Enthusiastic about data-structures, algorithms, cloud and AI. 
 ! Open-source contributor. Eager to learn and collaborate.
