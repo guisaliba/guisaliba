@@ -1,9 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="350px" align="right" alt="Computador">
 
-<br>
-<br>
-
-### **✨ About me:**
+#### **✨ About me:**
 ```diff
 Guilherme 'guisaliba', young passionate developer.
 
@@ -13,7 +10,7 @@ Guilherme 'guisaliba', young passionate developer.
 > Open-source contributor. Eager to learn and collaborate.
 ```
 
-### **💌 Find me:**
+#### **💌 Find me:**
 
 <p align="left">
   <a href="https://twitter.com/guisaliba1"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></img></a>
@@ -29,5 +26,8 @@ Guilherme 'guisaliba', young passionate developer.
 <!-- BLOG:START -->
 - [My 5-Day Adventure in Brackey's Game Jam 2023: From Gamer to Game Developer.]([https://dev.to/guisaliba/my-5-day-adventure-in-brackeys-game-jam-2023-from-gamer-to-game-developer-3d21])
 <!-- BLOG:END -->
+
+<br>
+<br>
 
 [![guisaliba](https://github-readme-stats.vercel.app/api/top-langs/?username=guisaliba&layout=compact&theme=tokyonight&hide=html,css&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
