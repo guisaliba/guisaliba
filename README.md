@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="350px" align="right" alt="Computador">
 
-#### **✨ About me:**
+#### **✨ About:**
 ```diff
 Guilherme 'guisaliba', young passionate developer.
 
@@ -19,6 +19,7 @@ Guilherme 'guisaliba', young passionate developer.
   <a href="https://dev.to/guisaliba"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></img></a>
 </p>  
 
+<br>
 
 #### **📕 Latest blog posts:**
 <!-- BLOG:START -->
