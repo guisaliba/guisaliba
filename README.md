@@ -7,7 +7,7 @@ Guilherme 'guisaliba', young passionate developer.
 + Living in Minas Gerais, Brazil 🇧🇷
 + 21 years old 
 + Open-source contributor. Eager to learn and collaborate.
-! Enthusiastic about algorithms, data structures, compilers and AI. 
++ Enthusiastic about algorithms, data structures, compilers and AI. 
 ```
 
 #### **💌 Find me:**
