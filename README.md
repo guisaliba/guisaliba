@@ -1,9 +1,13 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="300px" align="right" alt="Computador">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="350px" align="right" alt="Computador">
 
 ### **✨ About:**
 
 ### Guilherme Saliba, young passionate developer 🧑‍💻
 
+🇧🇷  21 years old from Minas Gerais, Brazil <br>
+🎓 Pursuing Bachelor's degree on Information Systems at PUC Minas  <br>
+💜 Open-source contributor. Eager to learn and collaborate, member of He4rt Developers  <br>
+🧠 Enthusiastic about algorithms, data structures, compilers, cybersecurity, science, humans and AI
 
 
 ### **💌 Find me:**
