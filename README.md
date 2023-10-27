@@ -2,12 +2,12 @@
 
 ## **✨ About:**
 
-### Guilherme 'guisaliba', young passionate developer 🧑‍💻
+### Guilherme Saliba, young passionate developer 🧑‍💻
 
-21 years old from Minas Gerais, Brazil 🇧🇷 <br>
-Pursuing Bachelor's degree on Information Systems at PUC Minas 🎓 <br>
-Open-source contributor. Eager to learn and collaborate, member of He4rt Developers 💜 <br>
-Enthusiastic about algorithms, data structures, compilers, cybersecurity, science, humans and AI 🧠
+🇧🇷  21 years old from Minas Gerais, Brazil <br>
+🎓 Pursuing Bachelor's degree on Information Systems at PUC Minas  <br>
+💜 Open-source contributor. Eager to learn and collaborate, member of He4rt Developers  <br>
+🧠 Enthusiastic about algorithms, data structures, compilers, cybersecurity, science, humans and AI 
 
 ## **💌 Find me:**
 
