@@ -9,6 +9,7 @@
 - 💜 Open-source contributor, member of He4rt Developers.  <br>
 - 🧠 Enthusiastic about compilers, cybersecurity, design, science, humans and AI.
 
+<br>
 
 ### **💌 Find me:**
 
