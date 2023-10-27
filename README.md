@@ -20,7 +20,9 @@
   <a href="https://www.twitch.tv/salibaa"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></img></a>
 </p>
 
-#### Feel free to get in touch!
+<p>
+  Feel free to get in touch!
+</p>
 
 <br>
 
