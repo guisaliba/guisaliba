@@ -6,7 +6,7 @@
 
 - 🇧🇷  21 years old from Minas Gerais, Brazil. <br>
 - 🎓 Pursuing Bachelor's degree on Information Systems at PUC Minas.  <br>
-- 💜 Open-source contributor. Member of He4rt Developers.  <br>
+- 💜 Open-source contributor, member of He4rt Developers.  <br>
 - 🧠 Enthusiastic about compilers, cybersecurity, design, science, humans and AI.
 
 
