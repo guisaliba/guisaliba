@@ -2,7 +2,7 @@
 
 ### **✨ About:**
 
-### Guilherme Saliba, young passionate developer. 🧑‍💻
+#### Guilherme Saliba, young passionate developer. 🧑‍💻
 
 - 🇧🇷  21 years old from Minas Gerais, Brazil. <br>
 - 🎓 Pursuing Bachelor's degree on Information Systems at PUC Minas.  <br>
