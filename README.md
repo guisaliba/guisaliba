@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="300px" align="right" alt="Computador">
 
-### **✨ About:**
+## **✨ About:**
 
 #### Guilherme Saliba, young passionate developer. 🧑‍💻
 
@@ -11,7 +11,7 @@
 
 <br>
 
-### **💌 Find me:**
+## **💌 Find me:**
 
 <p align="left">
   <a href="https://dev.to/guisaliba"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></img></a>
@@ -22,7 +22,7 @@
 
 <br>
 
-### **📕 Latest blog posts:**
+## **📕 Latest blog posts:**
 <!-- BLOG:START -->
 - [My 5-Day Adventure in Brackey's Game Jam 2023: From Gamer to Game Developer.](https://dev.to/guisaliba/my-5-day-adventure-in-brackeys-game-jam-2023-from-gamer-to-game-developer-3d21)
 <!-- BLOG:END -->
