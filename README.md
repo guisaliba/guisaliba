@@ -1,14 +1,13 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="350px" align="right" alt="Computador">
 
 ### **✨ About:**
-```diff
+
 Guilherme 'guisaliba', young passionate developer 🧑‍💻
 
-+ 21 years old from Minas Gerais, Brazil 🇧🇷
-- Pursuing Bachelor's degree on Information Systems at PUC Minas 🎓 
-+ Open-source contributor. Eager to learn and collaborate, member of He4rt Developers 💜
-- Enthusiastic about algorithms, data structures, compilers, cybersecurity, science, humans and AI 🧠 
-```
+21 years old from Minas Gerais, Brazil 🇧🇷
+Pursuing Bachelor's degree on Information Systems at PUC Minas 🎓 
+Open-source contributor. Eager to learn and collaborate, member of He4rt Developers 💜
+Enthusiastic about algorithms, data structures, compilers, cybersecurity, science, humans and AI 🧠 
 
 ### **💌 Find me:**
 
