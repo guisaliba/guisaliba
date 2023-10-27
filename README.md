@@ -1,15 +1,12 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="250px" align="right" alt="Computador">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="300px" align="right" alt="Computador">
 
 ## **✨ About:**
 
 ### Guilherme Saliba, young passionate developer 🧑‍💻
 
-🇧🇷  21 years old from Minas Gerais, Brazil <br>
-🎓 Pursuing Bachelor's degree on Information Systems at PUC Minas  <br>
-💜 Open-source contributor. Eager to learn and collaborate, member of He4rt Developers  <br>
-🧠 Enthusiastic about algorithms, data structures, compilers, cybersecurity, science, humans and AI 
 
-## **💌 Find me:**
+
+### **💌 Find me:**
 
 <p align="left">
   <a href="https://dev.to/guisaliba"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></img></a>
@@ -20,7 +17,7 @@
 
 <br>
 
-## **📕 Latest blog posts:**
+### **📕 Latest blog posts:**
 <!-- BLOG:START -->
 - [My 5-Day Adventure in Brackey's Game Jam 2023: From Gamer to Game Developer.](https://dev.to/guisaliba/my-5-day-adventure-in-brackeys-game-jam-2023-from-gamer-to-game-developer-3d21)
 <!-- BLOG:END -->
