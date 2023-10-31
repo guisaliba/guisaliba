@@ -23,7 +23,6 @@
   Feel free to get in touch!
 </p>
 
-<br>
 
 ### **📕 Latest blog posts:**
 <!-- BLOG:START -->
