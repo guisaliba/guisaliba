@@ -1,10 +1,10 @@
-#### ℹ️ About:
+### ℹ️ About:
 - 🧑‍💻 21 years old from Minas Gerais, Brazil. <br>
 - 🎓 Pursuing Bachelor's degree on Information Systems at PUC Minas.  <br>
 - 💜 Open-source contributor, member of He4rt Developers.  <br>
 - 🤖 Enthusiastic about compilers, algorithms, design, science, humans and AI.
 
-#### 🔮 Technologies:
+### 🔮 Technologies:
 <div>
   <a href="https://www.javascript.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/javascript.svg" alt="JavaScript" width="27" height="27" /></a>
   <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/typescript.svg" alt="TypeScript" width="27" height="27" /></a>
@@ -15,12 +15,12 @@
   <a href="http://prisma.io" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/prisma.svg" alt="Prisma" width="27" height="27" /></a>
 </div>
 
-#### 📫 Social:
+### 📫 Social:
 <div>
 <a href="mailto:salibagui19@gmail.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/at.svg" alt="Email" width="26" height="26" /></a> <a href="https://www.linkedin.com/in/guisaliba" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="26" height="26" /></a> <a href="https://twitter.com/guisaliba1" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/twitter.svg" alt="Twitter" width="26" height="26" /></a>  <a href="" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/socials/discord.svg" alt="Discord" width="26" height="26" /></a> <a href="https://twitch.tv/salibaa" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/socials/twitch.svg" alt="Twitch" width="26" height="26" /></a>
 </div>
 
-#### 📕 Latest blog posts:
+### 📕 Latest blog posts:
 <!-- BLOG:START -->
 - [My 5-Day Adventure in Brackey's Game Jam 2023: From Gamer to Game Developer](https://dev.to/guisaliba/my-5-day-adventure-in-brackeys-game-jam-2023-from-gamer-to-game-developer-3d21)
 <!-- BLOG:END -->
