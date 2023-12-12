@@ -1,4 +1,5 @@
 ### **✨ About:**
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="300px" align="right" alt="Computador">
 
 **Guilherme Saliba, young passionate developer** 🧑‍💻
 
@@ -10,8 +11,6 @@
 <a href="https://www.javascript.com" target="_blank" rel="noreferrer noopener">
   <img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/javascript.svg" alt="JavaScript" width="25" height="25" />
 </a>
-
-
 <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer noopener">
   <img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/typescript.svg" alt="Typescript" width="25" height="25" />
 </a>
