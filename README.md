@@ -1,13 +1,12 @@
+<samp>
 ℹ️ About:
 <br>
-<br>
-
-Guilherme Saliba, young passionate developer.
-
 - 🧑‍💻 21 years old from Minas Gerais, Brazil. <br>
 - 🎓 Pursuing Bachelor's degree on Information Systems at PUC Minas.  <br>
 - 💜 Open-source contributor, member of He4rt Developers.  <br>
 - 🤖 Enthusiastic about compilers, algorithms, design, science, humans and AI.
+
+<br>
 
 <div>
   <a href="https://www.javascript.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/javascript.svg" alt="JavaScript" width="27" height="27" /></a>
@@ -28,6 +27,5 @@ Guilherme Saliba, young passionate developer.
 
 <br>
 
-[![@guisaliba's Holopin board](https://holopin.io/api/user/board?user=guisaliba)](https://holopin.io/@guisaliba)
-
 [![guisaliba](https://github-readme-stats.vercel.app/api/top-langs/?username=guisaliba&layout=compact&theme=tokyonight&hide=html,css&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+</samp>
