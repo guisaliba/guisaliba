@@ -3,7 +3,7 @@
 
 **Guilherme Saliba, young passionate developer** 🧑‍💻
 
-- 🇧🇷  21 years old from Minas Gerais, Brazil. <br>
+-  🇧🇷  21 years old from Minas Gerais, Brazil. <br>
 - 🎓 Pursuing Bachelor's degree on Information Systems at PUC Minas.  <br>
 - 💜 Open-source contributor, member of He4rt Developers.  <br>
 - 💻 Enthusiastic about compilers, algorithms, design, science, humans and AI.
