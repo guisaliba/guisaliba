@@ -1,6 +1,7 @@
 <samp>
 ℹ️ About:
 <br>
+<br>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="300px" align="right" alt="Computador">
 
 Guilherme Saliba, young passionate developer.
@@ -12,13 +13,13 @@ Guilherme Saliba, young passionate developer.
   
 <br>
 
-<a href="https://www.javascript.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/javascript.svg" alt="JavaScript" width="25" height="25" /></a>
-<a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/typescript.svg" alt="TypeScript" width="27" height="27" /></a>
-<a href="https://reactjs.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/react.svg" alt="React" width="27" height="27" /></a>
-<a href="https://nextjs.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/nextjs.svg" alt="NextJS" width="25" height="25" /></a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/nodejs.svg" alt="NodeJS" width="25" height="25" /></a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/postgresql.svg" alt="PostgreSQL" width="25" height="25" /></a>
-<a href="http://prisma.io" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/prisma.svg" alt="Prisma" width="25" height="25" /></a>
+<a href="https://www.javascript.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/javascript.svg" alt="JavaScript" width="32" height="32" /></a>
+<a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/typescript.svg" alt="TypeScript" width="32" height="32" /></a>
+<a href="https://reactjs.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/react.svg" alt="React" width="32" height="32" /></a>
+<a href="https://nextjs.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/nextjs.svg" alt="NextJS" width="32" height="32" /></a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/nodejs.svg" alt="NodeJS" width="32" height="32" /></a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/postgresql.svg" alt="PostgreSQL" width="32" height="32" /></a>
+<a href="http://prisma.io" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/prisma.svg" alt="Prisma" width="32" height="32" /></a>
 
 <a href="mailto:salibagui19@gmail.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/at.svg" alt="Email" width="22" height="22" /></a>
 <a href="https://twitter.com/guisaliba1" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/twitter.svg" alt="Twitter" width="22" height="22" /></a>
