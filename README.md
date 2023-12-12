@@ -9,8 +9,6 @@ Guilherme Saliba, young passionate developer.
 - 🎓 Pursuing Bachelor's degree on Information Systems at PUC Minas.  <br>
 - 💜 Open-source contributor, member of He4rt Developers.  <br>
 - 🤖 Enthusiastic about compilers, algorithms, design, science, humans and AI.
-  
-<br>
 
 <div>
   <a href="https://www.javascript.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/javascript.svg" alt="JavaScript" width="27" height="27" /></a>
