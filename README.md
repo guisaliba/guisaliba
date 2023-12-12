@@ -1,4 +1,3 @@
-<samp>
 ℹ️ About:
 <br>
 <br>
@@ -10,7 +9,7 @@ Guilherme Saliba, young passionate developer.
 - 💜 Open-source contributor, member of He4rt Developers.  <br>
 - 🤖 Enthusiastic about compilers, algorithms, design, science, humans and AI.
 
-<div padding="32">
+<div>
   <a href="https://www.javascript.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/javascript.svg" alt="JavaScript" width="27" height="27" /></a>
   <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/typescript.svg" alt="TypeScript" width="27" height="27" /></a>
   <a href="https://reactjs.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/react.svg" alt="React" width="27" height="27" /></a>
@@ -26,7 +25,6 @@ Guilherme Saliba, young passionate developer.
 <!-- BLOG:START -->
 - [My 5-Day Adventure in Brackey's Game Jam 2023: From Gamer to Game Developer](https://dev.to/guisaliba/my-5-day-adventure-in-brackeys-game-jam-2023-from-gamer-to-game-developer-3d21)
 <!-- BLOG:END -->
-</samp>
 
 <br>
 
