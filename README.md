@@ -9,6 +9,8 @@
 - 💜 Open-source contributor, member of He4rt Developers.  <br>
 - 💻 Enthusiastic about compilers, algorithms, design, science, humans and AI.
 
+src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/nodejs.svg" alt="NodeJS" width="25" height="25" /></a> <a href="https://www.mongodb.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/mongodb.svg" alt="Mongo DB" width="25" height="25" /></a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/postgresql.svg" alt="PostgreSQL" width="25" height="25" /></a> <a href="http://prisma.io" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/prisma.svg" alt="Prisma" width="25" height="25" /></a>
+
 
 ### **💌 Find me:**
 
