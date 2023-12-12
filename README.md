@@ -28,4 +28,6 @@ Guilherme Saliba, young passionate developer.
 
 <br>
 
+[![@guisaliba's Holopin board](https://holopin.io/api/user/board?user=guisaliba)](https://holopin.io/@guisaliba)
+
 [![guisaliba](https://github-readme-stats.vercel.app/api/top-langs/?username=guisaliba&layout=compact&theme=tokyonight&hide=html,css&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
