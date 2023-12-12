@@ -10,7 +10,7 @@ Guilherme Saliba, young passionate developer.
 - 💜 Open-source contributor, member of He4rt Developers.  <br>
 - 🤖 Enthusiastic about compilers, algorithms, design, science, humans and AI.
 
-<div align="center">
+<div margin-left="32px">
   <a href="https://www.javascript.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/javascript.svg" alt="JavaScript" width="27" height="27" /></a>
   <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/typescript.svg" alt="TypeScript" width="27" height="27" /></a>
   <a href="https://reactjs.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/react.svg" alt="React" width="27" height="27" /></a>
