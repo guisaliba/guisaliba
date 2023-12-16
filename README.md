@@ -5,7 +5,7 @@
   4. Don't compare yourself; <br>
   5. Practice, practice, practice; <br>
   6. It doesn't matter if what you're going to build or if you're doing it right. Just get started; <br>
-  7. Take classes, buy and read programming books read blogs and tech newsletters. But do side projects.
+  7. Take classes, buy and read programming books, read blogs and tech newsletters but do side projects.
 </samp>
 
 <br>
