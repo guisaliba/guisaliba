@@ -36,4 +36,6 @@
 
 <br>
 
-[![guisaliba](https://github-readme-stats.vercel.app/api/top-langs/?username=guisaliba&layout=compact&theme=dark&hide=html,css&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=guisaliba&theme=github-dark-dimmed&border_radius=5&card_width=650)](https://git.io/streak-stats)
+  
