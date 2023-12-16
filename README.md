@@ -1,10 +1,24 @@
-### ℹ️ About
-- 🧑‍💻 21 years old from Minas Gerais, Brazil. <br>
-- 🎓 Pursuing Bachelor's degree on Information Systems at PUC Minas.  <br>
-- 💜 Open-source contributor, member of He4rt Developers.  <br>
-- 🤖 Enthusiastic about compilers, algorithms, design, science, humans and AI.
+<samp>
+  1. Learn it because you like it, you find it interesting or maybe find it useful; <br>
+  2. Keep learning; <br>
+  3. Try not to overwhelm yourself; <br>
+  4. Don't compare yourself; <br>
+  5. Practice, practice, practice; <br>
+  6. It doesn't matter if what you're going to build or if you're doing it right. Just get started; <br>
+  7. Take classes, buy and read programming books read blogs and tech newsletters. But do side projects.
+</samp>
 
-### 🔮 Technologies
+<br>
+<br>
+
+
+<div>
+  <a href="mailto:salibagui19@gmail.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/at.svg" alt="Email" width="26" height="26" /></a> <a href="https://twitter.com/guisaliba1" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/twitter.svg" alt="Twitter" width="26" height="26" /></a> <a href="https://www.linkedin.com/in/guisaliba" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="26" height="26" /></a> 
+</div>
+
+<br>
+
+
 <div>
   <a href="https://www.javascript.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/javascript.svg" alt="JavaScript" width="27" height="27" /></a>
   <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/typescript.svg" alt="TypeScript" width="27" height="27" /></a>
@@ -20,14 +34,6 @@
   <a href="https://webpack.js.org/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/frontend/webpack.svg" alt="Webpack" width="27" height="27" /></a>
 </div>
 
-### 📫 Social
-<a href="mailto:salibagui19@gmail.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/at.svg" alt="Email" width="26" height="26" /></a> <a href="https://twitter.com/guisaliba1" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/twitter.svg" alt="Twitter" width="26" height="26" /></a> <a href="https://www.linkedin.com/in/guisaliba" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="26" height="26" /></a> 
-</div>
-<div>
+<br>
 
-### 📕 Latest blog posts
-<!-- BLOG:START -->
-- [My 5-Day Adventure in Brackey's Game Jam 2023: From Gamer to Game Developer](https://dev.to/guisaliba/my-5-day-adventure-in-brackeys-game-jam-2023-from-gamer-to-game-developer-3d21)
-<!-- BLOG:END -->
-
-<br><div>[![guisaliba](https://github-readme-stats.vercel.app/api/top-langs/?username=guisaliba&layout=compact&theme=dark&hide=html,css&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)</div>
+[![guisaliba](https://github-readme-stats.vercel.app/api/top-langs/?username=guisaliba&layout=compact&theme=dark&hide=html,css&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
