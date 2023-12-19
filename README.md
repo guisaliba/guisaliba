@@ -1,12 +1,12 @@
 <samp>
-  1. Learn it because you like it, you find it interesting or maybe you find it useful;
+  1. Learn it because you like it, you find it interesting or maybe you find it useful; <br>
   2. It doesn't matter what you're going to build and how you're doing it. Just get started; <br>
-  2. Keep learning; <br>
-  3. Try not to overwhelm yourself; <br>
-  4. Don't compare yourself; <br>
-  5. Practice, practice and practice; <br>
-  6. Do side projects; <br>
-  7. Be underrated.
+  3. Keep learning; <br>
+  4. Try not to overwhelm yourself; <br>
+  5. Don't compare yourself; <br>
+  6. Practice, practice and practice; <br>
+  7. Do side projects; <br>
+  8. Be underrated.
 </samp>
 
 <br>
