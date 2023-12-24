@@ -5,7 +5,7 @@
   4. Try not to overwhelm yourself; <br>
   5. Don't compare yourself; <br>
   6. Practice, practice and practice; <br>
-  7. Be underrated.
+  7. Let them underrate you.
 </samp>
 
 <br>
