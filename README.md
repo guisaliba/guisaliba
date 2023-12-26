@@ -5,7 +5,7 @@
   4. Try not to overwhelm yourself; <br>
   5. Don't compare yourself; <br>
   6. Practice, practice and practice; <br>
-  7. Let them underrate you.
+  7. Think only about your art.
 </samp>
 
 <br>
@@ -37,7 +37,7 @@
 
 <div>
   <a>
-    <img height=175 align=center src="https://streak-stats.demolab.com?user=guisaliba&theme=dark&border_radius=5&card_width=400"/>
+    <img height=175 align=center src="https://streak-stats.demolab.com?user=guisaliba&theme=dark&border_radius=5&card_width=450"/>
   </a>
   <a>
     <img height=175 align=center src="https://github-readme-stats.vercel.app/api/top-langs?username=guisaliba&theme=dark&layout=compact&hide=html">
