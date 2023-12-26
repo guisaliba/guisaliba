@@ -37,10 +37,10 @@
 
 <div>
   <a>
-    <img height=150 align=center src="https://streak-stats.demolab.com?user=guisaliba&theme=dark&border_radius=5&card_width=350"/>
+    <img height=200 align=center src="https://streak-stats.demolab.com?user=guisaliba&theme=dark&border_radius=5&card_width=400"/>
   </a>
   <a>
-    <img height=150 align=center src="https://github-readme-stats.vercel.app/api/top-langs?username=guisaliba&theme=dark&layout=compact&hide=html">
+    <img height=200 align=center src="https://github-readme-stats.vercel.app/api/top-langs?username=guisaliba&theme=dark&layout=compact&hide=html">
   </a>
 </div>
   
