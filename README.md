@@ -32,7 +32,6 @@
 
 <br>
 
-<!--
 <div>
   <a>
     <img height=170 align=center src="https://streak-stats.demolab.com?user=guisaliba&theme=dark&border_radius=5&card_width=450"/>
@@ -41,4 +40,3 @@
     <img height=170 align=center src="https://github-readme-stats.vercel.app/api/top-langs?username=guisaliba&theme=dark&layout=compact&hide=html,css">
   </a>
 </div>
--->
