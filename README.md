@@ -1,11 +1,10 @@
 <samp>
   1. Learn it because you like it, you find it interesting or maybe you find it useful; <br>
   2. It doesn't matter what you're going to build or how you're doing it. Just get started; <br>
-  3. Keep learning; <br>
-  4. Try not to overwhelm yourself; <br>
-  5. Don't compare yourself; <br>
-  6. Practice, practice and practice; <br>
-  7. Think only about your art.
+  3. Try not to overwhelm yourself; <br>
+  4. Don't compare yourself; <br>
+  5. Practice, practice and practice; <br>
+  6. Stay hungry.
 </samp>
 
 <br>
