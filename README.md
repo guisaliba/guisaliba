@@ -2,9 +2,11 @@
   1. Learn it because you like it, you find it interesting or maybe you find it useful; <br>
   2. It doesn't matter what you're going to build or how you're doing it. Just get started; <br>
   3. Try not to overwhelm yourself; <br>
-  4. Don't compare yourself; <br>
-  5. Practice, practice and practice; <br>
-  6. Stay hungry.
+  4. Don't feel smart.
+  5. Don't compare yourself; <br>
+  6. Solve the problem you have to, not the problem you think you will have.
+  7. Practice, practice and practice; <br>
+  8. Stay hungry.
 </samp>
 
 <br>
