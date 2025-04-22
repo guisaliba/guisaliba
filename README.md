@@ -4,7 +4,7 @@
   3. Try not to overwhelm yourself; <br>
   4. Don't feel smart.
   5. Don't compare yourself; <br>
-  6. Solve the problem you have to, not the problem you think you will have.
+  6. Solve the problem you have to, not the problem you think you will have. <br>
   7. Practice, practice and practice; <br>
   8. Stay hungry.
 </samp>
