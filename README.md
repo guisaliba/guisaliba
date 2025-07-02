@@ -37,6 +37,6 @@
     <img height=170 align=center src="https://streak-stats.demolab.com?user=guisaliba&theme=dark&border_radius=5&card_width=450"/>
   </a>
   <a>
-    <img height=170 align=center src="https://github-readme-stats.vercel.app/api/top-langs?username=guisaliba&theme=dark&layout=compact&hide=html,css">
+    <img height=170 align=center src="https://github-readme-stats.vercel.app/api/top-langs?username=guisaliba&theme=dark&layout=compact&hide=html,css,javascript">
   </a>
 </div>
