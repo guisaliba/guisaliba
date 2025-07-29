@@ -6,7 +6,7 @@
   5. Don't compare yourself; <br>
   6. Solve the problem you have to, not the problem you think you will have; <br>
   7. Practice, practice and practice; <br>
-  8. Stay hungry.
+  8. Stay hungry, stay foolish.
 </samp>
 
 <br>
