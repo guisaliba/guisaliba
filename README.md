@@ -16,7 +16,7 @@
    <a href="mailto:salibagui19@gmail.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/at.svg" alt="Email" width="26" height="26" /></a> <a href="https://www.linkedin.com/in/guisaliba" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="26" height="26" /></a> <a href="https://guisaliba.vercel.app" target="_blank" rel="noreferrer" noopener><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/socials/globe.svg" alt="Website" width="26" height="26"/></a>
 </div>
 
-<!-- <a href="https://twitter.com/guisaliba1" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/twitter.svg" alt="Twitter" width="26" height="26" /></a> -->
+<!-- <a href="https://x.com/guisaliba1" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/twitter.svg" alt="Twitter" width="26" height="26" /></a> -->
 
 <br>
 
@@ -34,11 +34,11 @@
 
 <br>
 
-<div>
+<!-- <div>
   <a>
     <img height=170 align=center src="https://streak-stats.demolab.com?user=guisaliba&theme=dark&border_radius=5&card_width=450"/>
   </a>
   <a>
     <img height=170 align=center src="https://github-readme-stats.vercel.app/api/top-langs?username=guisaliba&theme=dark&layout=compact&hide=html,css,javascript">
   </a>
-</div>
+</div> -->
