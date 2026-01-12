@@ -1,6 +1,6 @@
 <samp>
   1. Action creates readiness. It builds momentum, clarity and confidence; <br>
-  2. It doesn't matter what and how you're building. Just get started; <br>
+  2. It doesn't matter what you're building and how. Just get started; <br>
   3. Life never gets calm. Find structure inside the chaos; <br>
   4. Don't feel smart and don't compare yourself; <br>
   5. Don't find the path. Create it as you walk; <br>
