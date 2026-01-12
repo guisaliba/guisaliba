@@ -1,12 +1,12 @@
 <samp>
-  1. Learn it because you like it, you find it interesting or maybe you find it useful; <br>
-  2. It doesn't matter what you're going to build or how you're doing it. Just get started; <br>
-  3. Try not to overwhelm yourself; <br>
-  4. Don't feel smart; <br>
-  5. Don't compare yourself; <br>
+  1. Action creates readiness. It builds momentum, clarity and confidence; <br>
+  2. It doesn't matter what and how you're building. Just get started; <br>
+  3. Life never gets calm. Find structure inside the chaos; <br>
+  4. Don't feel smart and don't compare yourself; <br>
+  5. Don't find the path. Create it as you walk; <br>
   6. Solve the problem you have to, not the problem you think you will have; <br>
-  7. Practice, practice and practice; <br>
-  8. Stay hungry, stay foolish.
+  7. True consistency is built by showing up, specially when it's inconvenient; <br>
+  8. Stay hungry and stay foolish.
 </samp>
 
 <br>
@@ -22,7 +22,7 @@
 
 
 <div>
-  <a href="https://www.javascript.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/javascript.svg" alt="JavaScript" width="27" height="27" /></a>
+  <!-- <a href="https://www.javascript.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/javascript.svg" alt="JavaScript" width="27" height="27" /></a> -->
   <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/typescript.svg" alt="TypeScript" width="27" height="27" /></a>
   <a href="https://dotnet.microsoft.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/core/csharp.svg" alt="C#" width="27" height="27" /></a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/nodejs.svg" alt="NodeJS" width="27" height="27" /></a>
