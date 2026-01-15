@@ -3,7 +3,7 @@
   2. It doesn't matter what you're building and how. Just get started; <br>
   3. Life never gets calm. Find structure inside the chaos; <br>
   4. Don't feel smart and don't compare yourself; <br>
-  5. Don't find the path. Create it as you walk; <br>
+  5. Stop trying to find the path. Create it as you walk; <br>
   6. Solve the problem you have to, not the problem you think you will have; <br>
   7. True consistency is built by showing up, specially when it's inconvenient; <br>
   8. Stay hungry and stay foolish.
