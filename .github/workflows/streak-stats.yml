@@ -1,0 +1,55 @@
+name: Generate Streak Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Run daily at midnight
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Generate Streak Stats (Dark)
+        uses: muhammad-fiaz/github-readme-streak-stats@v1.0.0
+        with:
+          USERNAME: ${{ secrets.USER_NAME }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          THEME: dark
+          OUTPUT_PATH: github-streak-stats-dark.svg
+
+      - name: Generate Streak Stats (Light)
+        uses: muhammad-fiaz/github-readme-streak-stats@v1.0.0
+        with:
+          USERNAME: ${{ secrets.USER_NAME }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          THEME: default
+          OUTPUT_PATH: github-streak-stats-light.svg
+
+      - name: Generate Streak Stats (Sunset Gradient)
+        uses: muhammad-fiaz/github-readme-streak-stats@v1.0.0
+        with:
+          USERNAME: ${{ secrets.USER_NAME }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          THEME: sunset-gradient
+          OUTPUT_PATH: github-streak-stats-sunset-gradient.svg
+
+      - name: Generate Streak Stats (Ocean Gradient)
+        uses: muhammad-fiaz/github-readme-streak-stats@v1.0.0
+        with:
+          USERNAME: ${{ secrets.USER_NAME }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          THEME: default
+          OUTPUT_PATH: github-streak-stats-ocean-gradient.svg
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4.2.0
+        with:
+          target_branch: output
+          build_dir: .
+          keep_history: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
