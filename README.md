@@ -16,7 +16,7 @@
   <a href="mailto:salibagui19@gmail.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/at.svg" alt="Email" width="26" height="26" /></a>
   <a href="https://guisaliba.vercel.app" target="_blank" rel="noreferrer" noopener><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/socials/globe.svg" alt="Website" width="26" height="26"/></a>
   <a href="https://www.linkedin.com/in/guisaliba" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="26" height="26" /></a>
-<!-- <a href="https://x.com/guisaliba1" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/twitter.svg" alt="Twitter" width="26" height="26" /></a> -->
+ <a href="https://x.com/guisaliba1" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/twitter.svg" alt="Twitter" width="26" height="26" /></a>
 </div>
 
 
@@ -35,4 +35,23 @@
 
 <br>
 
-
+<div style="display: flex; justify-content: center; align-items: center;">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="
+        https://raw.githubusercontent.com/guisaliba/guisaliba/output/github-streak-stats-dark.svg
+      "
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="
+        https://raw.githubusercontent.com/guisaliba/guisaliba/output/github-streak-stats-light.svg
+      "
+    />
+    <img
+      alt="github-streak-stats"
+      src="https://raw.githubusercontent.com/guisaliba/guisaliba/output/github-streak-stats-sunset-gradient.svg"
+    />
+  </picture>
+</div>
