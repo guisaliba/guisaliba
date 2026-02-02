@@ -19,9 +19,7 @@
  <a href="https://x.com/guisaliba1" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/twitter.svg" alt="Twitter" width="26" height="26" /></a>
 </div>
 
-
 <br>
-
 
 <div>
   <!-- <a href="https://www.javascript.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/javascript.svg" alt="JavaScript" width="27" height="27" /></a> -->
@@ -35,23 +33,8 @@
 
 <br>
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="
-        https://raw.githubusercontent.com/guisaliba/guisaliba/output/github-streak-stats-dark.svg
-      "
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="
-        https://raw.githubusercontent.com/guisaliba/guisaliba/output/github-streak-stats-light.svg
-      "
-    />
-    <img
-      alt="github-streak-stats"
-      src="https://raw.githubusercontent.com/guisaliba/guisaliba/output/github-streak-stats-sunset-gradient.svg"
-    />
-  </picture>
+<div>
+  <a>
+    <img src="https://github-readme-streak-stats-vijaypur.vercel.app/?user=guisaliba&theme=dark&border_radius=3.5" />
+  </a>
 </div>
