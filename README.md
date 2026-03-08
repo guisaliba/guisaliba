@@ -11,7 +11,7 @@
 
 <br>
 <br>
-
+<!--
 <div>
   <a href="https://www.linkedin.com/in/guisaliba" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="26" height="26" /></a>
   <a href="https://x.com/guisaliba1" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/twitter.svg" alt="Twitter" width="26" height="26" /></a>
@@ -19,7 +19,7 @@
   <a href="https://guisaliba.vercel.app" target="_blank" rel="noreferrer" noopener><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/socials/globe.svg" alt="Website" width="26" height="26"/></a>
 </div>
 
-<br>
+<!-- <br> -->
 
 <!-- <div>
   < <a href="https://www.javascript.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/javascript.svg" alt="JavaScript" width="27" height="27" /></a>
