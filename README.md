@@ -6,7 +6,7 @@
   5. Stop trying to find the path. Create it as you walk; <br>
   6. Solve the problem you have to, not the problem you think you will have; <br>
   7. True consistency is built by showing up, specially when it's inconvenient; <br>
-  8. Stay hungry and stay foolish.
+  8. Stay hungry, stay foolish.
 </samp>
 
 <br>
