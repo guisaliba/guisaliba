@@ -21,11 +21,9 @@
 
 </div>
 
-<div>
-  <p>
-    ⤷ I work mostly with .NET and Node.js, but I also have a strong background in Python and Go. <br>
-    Interested in open source, member and contributor of He4rt Developers, the largest Brazilian open source community.
-  </p>
-</div>
+⤷ I work mostly with .NET and Node.js, but I also have a strong background in Python and Go. <br>
+Interested in open source, member and contributor of He4rt Developers, the largest Brazilian open source community.
+
+ϟ Writing stuff on [guisaliba](https://guisaliba.github.io/).
 
 </samp>
