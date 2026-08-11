@@ -7,8 +7,10 @@
   6. Stay hungry, stay foolish.
 
 <br>
+<br>
 ⤷ Interested in open source. Member and contributor of He4rt Developers, the largest Brazilian open source community.
 
+<br>
 <br>
 
 ϟ Writing stuff on [guisaliba](https://guisaliba.github.io/).
